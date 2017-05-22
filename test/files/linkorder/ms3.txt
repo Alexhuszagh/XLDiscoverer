@@ -1,0 +1,6 @@
+Search Name:	THERMO_DEMO_2015_11_QP_T6_vivo_Target_MS3/T6QP vivo Target
+			THERMO_DEMO_2015_11_QP_T6_vivo_Target_MS3/T6QP vivo Target
+	Uniq Pep	Acc #	Num Unique	% Cov	Best Disc Score	Best Expect Val	m/z	z	ppm	DB Peptide	Mods	Protein Mods	Fraction	RT	MSMS Info	Start	Score	Expect	# in DB	Protein MW	Species	Protein Name
+[6]		Q99460	17	12.4	3.15	1.30E-05	1156.0358	2	-0.93	QCVENADLPEGEKKPIDQR	Carbamidomethyl@2;Gln->pyro-Glu@1;Label:13C(6)15N(2)&Label:13C(6)15N(2)+XL:A-Thiol@((13&14)|(14&13))	Gln->pyro-Glu@111;Label:13C(6)15N(2)&Label:13C(6)15N(2)+XL:A-Thiol@((123&124)|(124&123))	QPvivo_2015_11_10_1targetmethod_MS3	61.38057598	11330	111	40.6	1.00E-04	1	105837.2	HUMAN	26S proteasome non-ATPase regulatory subunit 1
+[6]		Q99460	17	12.4	3.15	1.30E-05	362.2066	2	-0.32	NKVLR	Label:13C(6)15N(2)+XL:A-Thiol@2	Label:13C(6)15N(2)+XL:A-Thiol@196	QPvivo_2015_11_10_1targetmethod_MS3	61.38992397	11333	195	11.8	0.26	3	105837.2	HUMAN	26S proteasome non-ATPase regulatory subunit 1
+[6]		Q99460	17	12.4	3.15	1.30E-05	346.2201	2	-1.7	NKVLR	Label:13C(6)15N(2)+XL:A-Alkene@2	Label:13C(6)15N(2)+XL:A-Alkene@196	QPvivo_2015_11_10_1targetmethod_MS3	61.38338698	11331	195	11.5	0.29	3	105837.2	HUMAN	26S proteasome non-ATPase regulatory subunit 1

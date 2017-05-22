@@ -1,0 +1,39 @@
+{
+    "default": {
+        "current": "level_separated",
+        "hierarchical": {
+            "MS Scans": [],
+            "Matched Output": []
+        },
+        "level_separated": {
+            "Matched Output": [
+                "/home/alex/Dropbox/10% Lysates/Lysate DSSO Zip.txt",
+                "/home/alex/Dropbox/10% Lysates/Lysate DSSO STAGE.txt",
+                "/home/alex/Dropbox/10% Lysates/Lysate TMT.txt"
+            ],
+            "Precursor Scans": [
+                "/home/alex/Dropbox/10% Lysates/beta_orbi080216_11_ITMSms2cid_d (Lysate DSSO Zip).txt",
+                "/home/alex/Dropbox/10% Lysates/beta_orbi080216_14_ITMSms2cid_d (Lysate DSSO STAGE).txt",
+                "/home/alex/Dropbox/10% Lysates/beta_orbi080416_05_ITMSms2cid_d (Lysate TMT).txt"
+            ],
+            "Product Scans": [
+                "/home/alex/Dropbox/10% Lysates/beta_orbi080216_11_ITMSms3cid_c (Lysate DSSO Zip).txt",
+                "/home/alex/Dropbox/10% Lysates/beta_orbi080216_14_ITMSms3cid_c (Lysate DSSO STAGE).txt",
+                "/home/alex/Dropbox/10% Lysates/beta_orbi080416_05_ITMSms3cid_c (Lysate TMT).txt"
+            ]
+        }
+    },
+    "quantitative": {
+        "current": "level_separated",
+        "hierarchical": {
+            "MS Scans": [],
+            "Matched Output": []
+        },
+        "level_separated": {
+            "Fullms Scans": [],
+            "Matched Output": [],
+            "Precursor Scans": [],
+            "Product Scans": []
+        }
+    }
+}

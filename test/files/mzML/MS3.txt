@@ -1,0 +1,6 @@
+Search Name:	beta_orbi061615_01/yS-Crystallin-WT_Light_10-1_DSu_MS3
+	beta_orbi061615_01/yS-Crystallin-WT_Light_10-1_DSu_MS3											
+Acc #	m/z	z	ppm	DB Peptide	Mods	Fraction	RT	MSMS Info	Start	Score	Expect	Protein Name
+1	325.1700	2	3.6	KEYR	XL:A-Alkene@1	beta_orbi061615_01	27.682	1714	155	10.6	3.9e-4	
+1	658.0010	3	1.4	KPIDWGAASPAVQSFRR	XL:A-Thiol(Unsaturated)@1	beta_orbi061615_01	27.697	1716	159	13.4	9.7e-4	
+1	658.0010	3	1.4	KPIDWGAASPAVQSFRR	XL:A-Thiol(Unsaturated)@1	beta_orbi061615_01	27.689	1715	159	9.4	0.0070	

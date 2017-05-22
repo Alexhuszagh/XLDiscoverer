@@ -1,0 +1,11 @@
+{
+    "add_isotopic_labels": false, 
+    "check_precursor": true, 
+    "current_reporterions": 1, 
+    "input_directory": "/home/alex/Dropbox/10% Lysates", 
+    "missing_precursor_threshold": 20.0, 
+    "output_directory": "/home/alex/Desktop", 
+    "reporterion_error_mode": "Da", 
+    "reporterion_quantitation": true, 
+    "send_logs": false
+}

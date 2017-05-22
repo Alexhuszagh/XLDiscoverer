@@ -1,0 +1,1851 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test",
+				"test_dialog"
+			],
+			[
+				"mass",
+				"mass_weight"
+			],
+			[
+				"dot",
+				"dotp_weight"
+			],
+			[
+				"get_c",
+				"get_crosslink"
+			],
+			[
+				"fil",
+				"filtered"
+			],
+			[
+				"path",
+				"path_handle"
+			],
+			[
+				"c",
+				"contextmanager〔function〕"
+			],
+			[
+				"cont",
+				"contextmanager"
+			],
+			[
+				"wid",
+				"widgets〔module〕"
+			],
+			[
+				"mous",
+				"mouse_click"
+			],
+			[
+				"equa",
+				"equal_selection"
+			],
+			[
+				"gaus",
+				"gaussian_threshold"
+			],
+			[
+				"dotp",
+				"dotp_threshold"
+			],
+			[
+				"frozen",
+				"frozenfun"
+			],
+			[
+				"conn",
+				"connects"
+			],
+			[
+				"Enum",
+				"Enums"
+			],
+			[
+				"se",
+				"servers〔module〕"
+			],
+			[
+				"Inde",
+				"IndexError〔class〕"
+			],
+			[
+				"Gen",
+				"GenBank"
+			],
+			[
+				"head",
+				"headers"
+			],
+			[
+				"_pa",
+				"_parse_sequence"
+			],
+			[
+				"sta",
+				"startswith"
+			],
+			[
+				"Prot",
+				"ProteinData〔class〕"
+			],
+			[
+				"Pro",
+				"ProteinData〔class〕"
+			],
+			[
+				"UNI",
+				"UNIPROT_UPPER_TAG"
+			],
+			[
+				"UN",
+				"UNIPROT_LOWER_TAG〔variable〕"
+			],
+			[
+				"cas",
+				"case_insensitive"
+			],
+			[
+				"tes",
+				"test_parse"
+			],
+			[
+				"index",
+				"indexes〔variable〕"
+			],
+			[
+				"pro",
+				"property〔class〕"
+			],
+			[
+				"pre",
+				"precursor_z"
+			],
+			[
+				"set",
+				"setattr"
+			],
+			[
+				"exce",
+				"except_error"
+			],
+			[
+				"fing",
+				"fingerprinting"
+			],
+			[
+				"lae",
+				"labels"
+			],
+			[
+				"mapp",
+				"mapping〔module〕"
+			],
+			[
+				"assertAl",
+				"assertAlmostEquals〔function〕"
+			],
+			[
+				"pep",
+				"peptide_list"
+			],
+			[
+				"pepti",
+				"peptides〔variable〕"
+			],
+			[
+				"pe",
+				"peptide〔module〕"
+			],
+			[
+				"DE",
+				"DECOY_ID"
+			],
+			[
+				"DECO",
+				"DECOYS_MODES〔variable〕"
+			],
+			[
+				"FA",
+				"FASTA_FIELDS〔variable〕"
+			],
+			[
+				"P",
+				"PeptideListMixin"
+			],
+			[
+				"prot",
+				"proteins"
+			],
+			[
+				"from",
+				"from_dict"
+			],
+			[
+				"Pep",
+				"Peptides〔class〕"
+			],
+			[
+				"max",
+				"maximum_missed"
+			],
+			[
+				"mi",
+				"minimum_missed"
+			],
+			[
+				"other",
+				"other_missed〔variable〕"
+			],
+			[
+				"sequ",
+				"sequence_tools〔module〕"
+			],
+			[
+				"C",
+				"Counter〔class〕"
+			],
+			[
+				"asser",
+				"assertEquals〔function〕"
+			],
+			[
+				"prote",
+				"proteins〔module〕"
+			],
+			[
+				"cut",
+				"cut_sequence"
+			],
+			[
+				"buff",
+				"buffering〔argument〕"
+			],
+			[
+				"Fi",
+				"FileFormatTest〔class〕"
+			],
+			[
+				"is",
+				"isinstance〔function〕"
+			],
+			[
+				"zip",
+				"ziptools〔module〕"
+			],
+			[
+				"BIN",
+				"BINARY_FILES"
+			],
+			[
+				"enzy",
+				"enzyme〔module〕"
+			],
+			[
+				"ass",
+				"assertRaises〔function〕"
+			],
+			[
+				"en",
+				"enzyme"
+			],
+			[
+				"amino",
+				"aminoacids"
+			],
+			[
+				"resi",
+				"residue_slice"
+			],
+			[
+				"xld",
+				"xldlib〔module〕"
+			],
+			[
+				"seri",
+				"serialize〔argument〕"
+			],
+			[
+				"Sc",
+				"ScanTitle〔variable〕"
+			],
+			[
+				"Ass",
+				"AssertionError"
+			],
+			[
+				"reg",
+				"registered"
+			],
+			[
+				"func",
+				"functions"
+			],
+			[
+				"su",
+				"suite〔argument〕"
+			],
+			[
+				"Amin",
+				"AminoAcid"
+			],
+			[
+				"Named",
+				"NamedTuple"
+			],
+			[
+				"Name",
+				"NamedList〔class〕"
+			],
+			[
+				"Nam",
+				"NamedTuple〔class〕"
+			],
+			[
+				"named",
+				"namedlist"
+			],
+			[
+				"class",
+				"classmethod〔class〕"
+			],
+			[
+				"sto",
+				"sort_key"
+			],
+			[
+				"com",
+				"compressed〔variable〕"
+			],
+			[
+				"compress",
+				"compression"
+			],
+			[
+				"seek",
+				"seek_start"
+			],
+			[
+				"type",
+				"typechecker〔module〕"
+			],
+			[
+				"file",
+				"fileobj〔argument〕"
+			],
+			[
+				"read",
+				"read_size"
+			],
+			[
+				"Engine",
+				"EngineDict"
+			],
+			[
+				"atom",
+				"atomic_number"
+			],
+			[
+				"nam",
+				"namedlist〔module〕"
+			],
+			[
+				"O",
+				"OrderedDict"
+			],
+			[
+				"ONE",
+				"ONE_LETTER_MIXED"
+			],
+			[
+				"chem",
+				"chemical"
+			],
+			[
+				"At",
+				"AtomTest〔class〕"
+			],
+			[
+				"cond",
+				"conditions"
+			],
+			[
+				"con",
+				"conditions"
+			],
+			[
+				"Mole",
+				"MoleculeTest〔class〕"
+			],
+			[
+				"form",
+				"formula"
+			],
+			[
+				"updat",
+				"update_chemical"
+			],
+			[
+				"che",
+				"chemical_defs〔module〕"
+			],
+			[
+				"NON",
+				"NON_STRICT〔variable〕"
+			],
+			[
+				"int",
+				"integer_types〔variable〕"
+			],
+			[
+				"upd",
+				"updatechecker〔function〕"
+			],
+			[
+				"co",
+				"co_firstlineno"
+			],
+			[
+				"re",
+				"raise_error"
+			],
+			[
+				"o",
+				"onstart〔module〕"
+			],
+			[
+				"std",
+				"stdout〔variable〕"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"Ord",
+				"OrderedDefaultdictTest〔class〕"
+			],
+			[
+				"MA",
+				"MAIN_VERSION"
+			],
+			[
+				"AUT",
+				"AUTHOR_EMAIL"
+			],
+			[
+				"plura",
+				"pluralize"
+			],
+			[
+				"plu",
+				"pluralize"
+			],
+			[
+				"plur",
+				"pluralize〔argument〕"
+			],
+			[
+				"pos",
+				"post_processing〔function〕"
+			],
+			[
+				"str",
+				"string_types〔variable〕"
+			],
+			[
+				"rer",
+				"reraise_error"
+			],
+			[
+				"silence",
+				"silence_warnings"
+			],
+			[
+				"war",
+				"warnings〔module〕"
+			],
+			[
+				"Run",
+				"RuntimeWarning〔class〕"
+			],
+			[
+				"Or",
+				"OrderedRecursiveDict"
+			],
+			[
+				"T",
+				"TreedDict"
+			],
+			[
+				"ex",
+				"except_error"
+			],
+			[
+				"Ind",
+				"IndexError〔class〕"
+			],
+			[
+				"exc",
+				"exception〔module〕"
+			],
+			[
+				"erro",
+				"errorfun〔argument〕"
+			],
+			[
+				"error",
+				"errorfun"
+			],
+			[
+				"mut",
+				"mutable_int〔variable〕"
+			],
+			[
+				"test_po",
+				"test_pow"
+			],
+			[
+				"ran",
+				"randint〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test/unittests/onstart/__init__.py",
+			"settings":
+			{
+				"buffer_size": 426,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/unittests/onstart/error.py",
+			"settings":
+			{
+				"buffer_size": 824,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/unittests/onstart/app.py",
+			"settings":
+			{
+				"buffer_size": 1469,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "xldlib/onstart/app.py",
+			"settings":
+			{
+				"buffer_size": 2196,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (All)"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (This File Only)"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 214.0,
+		"last_filter": "Build",
+		"selected_items":
+		[
+			[
+				"Build",
+				"Build: New Build System"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"COpy File",
+				"ANF: Copy Current File"
+			],
+			[
+				"Dele",
+				"File: Delete"
+			],
+			[
+				"Move",
+				"File: Move"
+			],
+			[
+				"Git diff",
+				"Git: Diff"
+			],
+			[
+				"Diff",
+				"Git: Diff"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Git diff al",
+				"Git: Diff All Files"
+			],
+			[
+				"Git dif",
+				"Git: Diff"
+			],
+			[
+				"Copy",
+				"File: Copy Path"
+			],
+			[
+				"MOve",
+				"File: Move"
+			],
+			[
+				"Git hist",
+				"Github: History"
+			],
+			[
+				"Rename",
+				"File: Rename"
+			],
+			[
+				"Set Syntax Pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Cop",
+				"File: Copy Path"
+			],
+			[
+				"Hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"Copy p",
+				"File: Copy Path"
+			],
+			[
+				"Enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Delet",
+				"File: Delete"
+			],
+			[
+				"Enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"Disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"COpy",
+				"File: Copy Path"
+			],
+			[
+				"New file",
+				"ANF: New File"
+			],
+			[
+				"ENable",
+				"Package Control: Enable Package"
+			],
+			[
+				"DIsable",
+				"Package Control: Disable Package"
+			],
+			[
+				"Enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"Dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"cop",
+				"File: Copy Path"
+			],
+			[
+				"Mov",
+				"File: Move"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"opy",
+				"File: Copy Path"
+			],
+			[
+				"New fil",
+				"File: New File Relative to Current View"
+			],
+			[
+				"Sort",
+				"Sort Lines"
+			],
+			[
+				"Rena",
+				"File: Rename"
+			],
+			[
+				"COpy P",
+				"File: Copy Path"
+			],
+			[
+				"Copy pa",
+				"File: Copy Path"
+			],
+			[
+				"Plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Git log",
+				"Git: Log Current File"
+			],
+			[
+				"Git History",
+				"Github: History"
+			],
+			[
+				"Disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"Disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Del",
+				"File: Delete"
+			],
+			[
+				"PyFlake",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rENA",
+				"File: Rename"
+			],
+			[
+				"Checkout",
+				"Git: Checkout Tag"
+			],
+			[
+				"Git diff ",
+				"Git: Diff Current File"
+			],
+			[
+				"DIs",
+				"Package Control: Disable Package"
+			],
+			[
+				"Enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Markdo",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"Set syn pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Set syntax pl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Set syn pl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"St syntax pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"Set syntax pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"DIsab",
+				"Package Control: Disable Package"
+			],
+			[
+				"ENab",
+				"Package Control: Enable Package"
+			],
+			[
+				"Case c",
+				"Convert Case: Lower Case"
+			],
+			[
+				"dELE",
+				"File: Delete"
+			],
+			[
+				"New",
+				"File: New File Relative to Current View"
+			],
+			[
+				"Renae",
+				"File: Rename"
+			],
+			[
+				"Renam",
+				"File: Rename"
+			],
+			[
+				"Ren",
+				"File: Rename"
+			],
+			[
+				"Evern",
+				"Evernote: New empty note"
+			],
+			[
+				"New fi",
+				"File: New File Relative to Current View"
+			],
+			[
+				"Git comm",
+				"Git: Commit"
+			],
+			[
+				"Git Diff",
+				"Git: Diff All Files"
+			],
+			[
+				"Deel",
+				"File: Delete"
+			],
+			[
+				"Disb",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Send",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"Search ",
+				"Evernote: Search Note"
+			],
+			[
+				"Ever se",
+				"Evernote: Search Note"
+			],
+			[
+				"Evernote sea",
+				"Evernote: Search Note"
+			],
+			[
+				"Evernote ne",
+				"Evernote: New empty note"
+			],
+			[
+				"Set Syntax: Py",
+				"Set Syntax: Python"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"Mv",
+				"File: Move"
+			],
+			[
+				"Ever",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"Snippet: ",
+				"Snippet: license"
+			],
+			[
+				"Next",
+				"Anaconda: Next lint error"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"GitHub",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Git fl",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"Git Fla",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"Preview",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"Git Push",
+				"Git: Push"
+			],
+			[
+				"Git Comm",
+				"Git: Commit"
+			],
+			[
+				"Git sta",
+				"Git: Status"
+			],
+			[
+				"Git Add",
+				"Git: Add..."
+			],
+			[
+				"Git st",
+				"Git: Status"
+			],
+			[
+				"Git add",
+				"Git: Add..."
+			],
+			[
+				"Git stat",
+				"Git: Status"
+			],
+			[
+				"Git push",
+				"Git: Push"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"Git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"Git Sta",
+				"Git: Status"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Gitk",
+				"Git: Gitk"
+			],
+			[
+				"Git",
+				"Git: Document Selection"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"Quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"SublimeCode",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"Packa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 622.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/alex/git/xltools/test/unittests",
+		"/home/alex/git/xltools/test/unittests/onstart",
+		"/home/alex/git/xltools/test/unittests/xlpy/matched",
+		"/home/alex/git/xltools/test/unittests/xlpy/tools",
+		"/home/alex/git/xltools/test/unittests/xlpy/tools/xic_picking",
+		"/home/alex/git/xltools/xldlib",
+		"/home/alex/git/xltools/xldlib/gui/views/visualizer",
+		"/home/alex/git/xltools/xldlib/objects/documents",
+		"/home/alex/git/xltools/xldlib/objects/documents/transitions",
+		"/home/alex/git/xltools/xldlib/objects/documents/transitions/data",
+		"/home/alex/git/xltools/xldlib/onstart",
+		"/home/alex/git/xltools/xldlib/resources/parameters",
+		"/home/alex/git/xltools/xldlib/xlpy/tools/xic_picking"
+	],
+	"file_history":
+	[
+		"/home/alex/git/xltools/xldlib/gui/views/visualizer/trees/transition.py",
+		"/home/alex/git/xltools/test/unittests/xlpy/tools/xic_picking/fit.py",
+		"/home/alex/git/xltools/xldlib/resources/parameters/defaults.py",
+		"/home/alex/git/xltools/xldlib/gui/views/visualizer/io_/transition.py",
+		"/home/alex/git/xltools/test/unittests/onstart/error.py",
+		"/home/alex/git/xltools/xldlib/xlpy/tools/xic_picking/fit.py",
+		"/home/alex/git/xltools/test/unittests/gui/views/dialogs/contextbar.py",
+		"/home/alex/git/xltools/xldlib/onstart/args.py",
+		"/home/alex/git/xltools/xldlib/onstart/error.py",
+		"/home/alex/git/xltools/test/unittests/__init__.py",
+		"/home/alex/git/xltools/xldlib/onstart/check_imports.py",
+		"/home/alex/git/xltools/xldlib/onstart/app.py",
+		"/home/alex/git/xltools/xldlib/objects/documents/transitions/data/labels.py",
+		"/home/alex/git/xltools/xldlib/objects/documents/transitions/data/crosslink.py",
+		"/home/alex/git/xltools/xldlib/objects/documents/transitions/data/charge.py",
+		"/home/alex/git/xltools/xldlib/utils/xictools/scoring.py",
+		"/home/alex/git/xltools/xldlib/gui/views/discoverer/settings/transitions.py",
+		"/home/alex/git/xltools/xldlib/xlpy/tools/xic_picking/ab3d.py",
+		"/home/alex/git/xltools/test/runtests.py",
+		"/home/alex/git/xltools/xldlib/xlpy/parameters.py",
+		"/home/alex/git/xltools/xldlib/xlpy/matched/proteome_discoverer/pepxml.py",
+		"/home/alex/git/xltools/xldlib/xlpy/matched/mascot/mime.py",
+		"/home/alex/git/xltools/xldlib/xlpy/link_finder/search/base.py",
+		"/home/alex/git/xltools/xldlib/xlpy/link_finder/core.py",
+		"/home/alex/git/xltools/xldlib/resources/engines/search.py",
+		"/home/alex/git/xltools/xldlib/objects/protein/database/base.py",
+		"/home/alex/git/xltools/xldlib/export/openoffice/openpyxl_.py",
+		"/home/alex/git/xltools/xldlib/controllers/bindings/debug.py",
+		"/home/alex/git/xltools/xldlib/utils/io_/ziptools.py",
+		"/home/alex/git/xltools/xldlib/utils/io_/typechecker.py",
+		"/home/alex/git/xltools/test/unittests/xlpy/__init__.py",
+		"/home/alex/git/xltools/test/unittests/xlpy/tools/__init__.py",
+		"/home/alex/git/xltools/test/unittests/xlpy/tools/xic_picking/__init__.py",
+		"/home/alex/Desktop/z.xld",
+		"/home/alex/git/xltools/xldlib/gui/views/dialogs/contextbar.py",
+		"/home/alex/git/xltools/xldlib/gui/views/widgets/__init__.py",
+		"/home/alex/git/xltools/xldlib/qt/objects/views.py",
+		"/home/alex/git/xltools/test/unittests/qt/objects/views.py",
+		"/home/alex/git/xltools/xldlib/resources/parameters/column_defs.py",
+		"/home/alex/git/xltools/.xlDiscoverer.log",
+		"/home/alex/git/xltools/xldlib/gui/views/windows/transition.py",
+		"/home/alex/git/xltools/xldlib/controllers/messages.py",
+		"/home/alex/git/xltools/xldlib/controllers/__init__.py",
+		"/home/alex/git/xltools/xldlib/controllers/signals.py",
+		"/home/alex/git/xltools/xldlib/controllers/bindings/decorators.py",
+		"/home/alex/git/xltools/xldlib/gui/views/discoverer/profiles/widgets.py",
+		"/home/alex/git/xltools/xldlib/controllers/bindings/table.py",
+		"/home/alex/git/xltools/xldlib/gui/views/widgets/table.py",
+		"/home/alex/git/xltools/xldlib/gui/views/widgets/helpers/checktable.py",
+		"/home/alex/git/xltools/xldlib/gui/views/discoverer/settings/modifications.py",
+		"/home/alex/git/xltools/xldlib/gui/views/discoverer/profiles/view.py",
+		"/home/alex/git/xltools/xldlib/gui/views/discoverer/profiles/table.py",
+		"/home/alex/git/xltools/xldlib/gui/views/discoverer/input_files.py",
+		"/home/alex/git/xltools/xldlib/chemical/proteins/configurations/charges.py",
+		"/home/alex/git/xltools/xldiscoverer.spec",
+		"/home/alex/git/xltools/setup.py",
+		"/home/alex/git/xltools/memory_profiler.log",
+		"/home/alex/git/xltools/data",
+		"/home/alex/git/xltools/a",
+		"/home/alex/git/xltools/configs2/__init__.py",
+		"/home/alex/git/xltools/configs2/spectral_search.py",
+		"/home/alex/git/xltools/xldlib/chemical/proteins/configurations/protease.py",
+		"/home/alex/git/xltools/xldlib/chemical/proteins/configurations/__init__.py",
+		"/home/alex/git/xltools/configs2/mods.py",
+		"/home/alex/git/xltools/configs2/servers.py",
+		"/home/alex/git/xltools/configs2/paths.py",
+		"/home/alex/git/xltools/configs2/data.py",
+		"/home/alex/git/xltools/xldlib/objects/dataset.py",
+		"/home/alex/git/xltools/configs2/atoms.py",
+		"/home/alex/git/xltools/xldlib/utils/io_/threads.py",
+		"/home/alex/git/xltools/xldlib/qt/resources/enums.py",
+		"/home/alex/git/xltools/test/unittests/qt/resources/enums.py",
+		"/home/alex/git/xltools/xldlib/utils/conn/update.py",
+		"/home/alex/git/xltools/xldlib/qt/objects/threads/background.py",
+		"/home/alex/git/xltools/xldlib/gui/views/widgets/progressbar.py",
+		"/home/alex/git/xltools/xldlib/gui/views/discoverer/running/dialog.py",
+		"/home/alex/git/xltools/xldlib/qt/resources/__init__.py",
+		"/home/alex/git/xltools/xldlib/qt/resources/flags.py",
+		"/home/alex/git/xltools/xldlib/resources/__init__.py",
+		"/home/alex/git/xltools/xldlib/resources/engines/dicttools.py",
+		"/home/alex/git/xltools/xldlib/resources/servers.py",
+		"/home/alex/git/xltools/xldlib/resources/parameters/instruments.py",
+		"/home/alex/git/xltools/xldlib/resources/parameters/__init__.py",
+		"/home/alex/git/xltools/xldlib/xlpy/matched/proteins.py",
+		"/home/alex/git/xltools/xldlib/gui/views/discoverer/proteins/iterators.py",
+		"/home/alex/git/xltools/xldlib/utils/bio/fasta.py",
+		"/home/alex/git/xltools/xldlib/utils/bio/__init__.py",
+		"/home/alex/git/xltools/xldlib/chemical/proteins/protein.py",
+		"/home/alex/git/xltools/xldlib/objects/mappedfile.py",
+		"/home/alex/git/xltools/test/unittests/utils/bio/__init__.py",
+		"/home/alex/git/xltools/xldlib/utils/bio/uniprot_xml.py",
+		"/home/alex/git/xltools/test/unittests/utils/bio/fasta.py",
+		"/home/alex/git/xltools/xldlib/exception/tools.py",
+		"/home/alex/git/xltools/test/unittests/utils/bio/uniprot_xml.py",
+		"/home/alex/git/xltools/test/unittests/utils/io_/ziptools.py",
+		"/home/alex/git/xltools/test/unittests/utils/__init__.py",
+		"/home/alex/git/xltools/test/unittests/chemical/proteins/_data.py",
+		"/home/alex/git/xltools/test/unittests/utils/bio/_data.py",
+		"/home/alex/git/xltools/test/unittests/chemical/proteins/enzyme.py",
+		"/home/alex/git/xltools/xldlib/xlpy/files.py",
+		"/home/alex/git/xltools/test/unittests/chemical/proteins/peptide_list.py",
+		"/home/alex/git/xltools/test/unittests/chemical/proteins/sequence_tools.py",
+		"/home/alex/git/xltools/xldlib/objects/sqlite.py",
+		"/home/alex/git/xltools/xldlib/objects/documents/transitions/data/base.py",
+		"/home/alex/git/xltools/xldlib/objects/documents/transitions/data/file.py",
+		"/home/alex/git/xltools/xldlib/chemical/formula.py",
+		"/home/alex/git/xltools/xldlib/objects/pytables.py",
+		"/home/alex/git/xltools/xldlib/objects/documents/transitions/data/document.py",
+		"/home/alex/git/xltools/xldlib/export/dataframes/base.py",
+		"/home/alex/git/xltools/xldlib/utils/xictools/ratio.py",
+		"/home/alex/git/xltools/test/unittests/chemical/proteins/__init__.py",
+		"/home/alex/git/xltools/xldlib/general/mapping/reverse.py",
+		"/home/alex/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/alex/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/alex/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+		"/home/alex/git/xltools/xldlib/xlpy/matched/protein_prospector/core.py",
+		"/home/alex/git/xltools/xldlib/export/dataframes/comparative.py",
+		"/home/alex/git/xltools/xldlib/xlpy/ms1quantitation/integrate.py",
+		"/home/alex/git/xltools/xldlib/gui/views/visualizer/trees/update.py",
+		"/home/alex/git/xltools/xldlib/export/transitions/transitions.py",
+		"/home/alex/git/xltools/xldlib/export/transitions/base.py",
+		"/home/alex/git/xltools/xldlib/export/transitions/ratiotable.py",
+		"/home/alex/git/xltools/xldlib/objects/documents/transitions/tools.py",
+		"/home/alex/git/xltools/xldlib/objects/documents/transitions/data/isotope.py",
+		"/home/alex/git/xltools/xldlib/gui/views/visualizer/trees/checkstate.py",
+		"/home/alex/git/xltools/xldlib/gui/views/visualizer/canvas/transition_canvas.py",
+		"/home/alex/git/xltools/xldlib/gui/views/visualizer/canvas/transition_plot.py",
+		"/home/alex/git/xltools/xldlib/gui/views/visualizer/styles/colorer.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/home/alex/git/xltools/",
+			"/home/alex/git/xltools/xldlib",
+			"/home/alex/git/xltools/test",
+			"/home/alex/git/xltools/xldlib",
+			"/home/alex/git/xltools/test",
+			"/home/alex/git/xltools/xldlib",
+			"/home/alex/git/xltools/test",
+			"/home/alex/git/xltools/xldlib",
+			"/home/alex/git/xltools/test",
+			"/home/alex/git/xltools/xldlib",
+			"/home/alex/git/xltools/test",
+			"/home/alex/git/xltools/xldlib",
+			"/home/alex/git/xltools/",
+			"/home/alex/git/xltools/xldlib",
+			"/home/alex/git/xltools/",
+			"/home/alex/git/xltools/xldlib",
+			"/home/alex/git/xltools/test",
+			"/home/alex/git/xltools/xldlib",
+			"/home/alex/git/xltools/test",
+			"/home/alex/git/xltools/xldlib",
+			"/home/alex/git/xltools/pyqtgraph",
+			"/home/alex/git/xltools/xldlib",
+			"/home/alex/git/xltools/pyqtgraph",
+			"/home/alex/git/xltools/",
+			"/home/alex/git/xltools/xldlib/",
+			"/home/alex/git/xltools/pyqtgraph/",
+			"/home/alex/git/xlDiscoverer/pyqtgraph/",
+			"/home/alex/git/xlDiscoverer/pyqtgraph",
+			"/home/alex/git/xlDiscoverer/xldlib",
+			"/home/alex/git/xltools/pyqtgraph",
+			"/home/alex/git/xlDiscoverer/pyqtgraph",
+			"/home/alex/git/xlDiscoverer/xldlib",
+			"/home/alex/git/xlDiscoverer/",
+			"/home/alex/git/xlDiscoverer/xldlib",
+			"/home/alex/git/xlDiscoverer/",
+			"/home/alex/git/xlDiscoverer/xldlib",
+			"/home/alex/git/xlDiscoverer",
+			"/home/alex/git/xlDiscoverer/xldlib",
+			"<open folders>",
+			"/home/alex/git/xlDiscoverer/xldlib",
+			"<open folders>",
+			"/home/alex/git/xlDiscoverer/models/files/transition",
+			"<open folders>",
+			"<open files>",
+			"<current file>",
+			"<open folders>",
+			"<current file>",
+			"<open folders>,",
+			"<open folders>,-/dev/*.py",
+			"<open folders>",
+			"/home/alex/git/xlDiscoverer/xlpy/abstract/mapping.py",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"SplashWindow",
+			"test_dialog",
+			"ErrorDialogTest",
+			"gaussian_threshold",
+			"dotp_threshold",
+			"dotp",
+			"dotp_threshold",
+			"gaussian_threshold",
+			"xictools",
+			"def get_dotp",
+			"def scorecrosslink",
+			"def get_fitscore",
+			"getchecked",
+			"def calculate_fit",
+			"__set_fitscores",
+			"dotp_weight",
+			"group",
+			"setbounds",
+			"ab3d",
+			"import pdb; pdb.set_trace()",
+			"import pdb\n            pdb.set_trace()",
+			"pdb.set_trace()",
+			"sqlite",
+			"contextmanager",
+			"/home/alex/git/xltools/xldlib/gui/views/dialogs/contextbar.py",
+			"_intersection",
+			"getintersection",
+			"Search Name",
+			"def pickle",
+			"equalcrosslinks",
+			"gaussianthreshold",
+			"dotpthreshold",
+			"ToggleSelection",
+			"block_once",
+			"signal_blocking",
+			"block_once",
+			"signals",
+			"block_once",
+			"widget",
+			"signal_blocking",
+			"frozenfun",
+			"CURRENT_CHARGE",
+			"[",
+			"CHARGE_RANGE",
+			"MAX_PEPTIDE_LEN",
+			"MIN_PEPTIDE_LEN",
+			"complevel",
+			"HDF5_FILTERS",
+			"exec_error",
+			"Args:\n            parent",
+			"IoThreading",
+			"QtCore.Qt.QueuedConnection",
+			"QueuedConnection",
+			"QtCore.Qt.QueuedConnection",
+			"qt.CURSOR",
+			"QueuedConnection",
+			"CONNECTION",
+			"servers.",
+			"servers",
+			"servers.",
+			".Parse",
+			"def except_error",
+			"remove",
+			"def set",
+			"self.get_trailing_value",
+			"get_no_isoform",
+			"get_trailing_value",
+			"proteindata",
+			"get_sequence",
+			"UNIPROT_XML",
+			"xml",
+			"tags",
+			"UNIPROT.lower()",
+			"UNIPROT",
+			"_entry",
+			"DATA",
+			"paths",
+			"getentry",
+			"setparser",
+			"_filternan",
+			"error",
+			"ratios",
+			"def getratios",
+			"['search']",
+			"['Search']",
+			"IntegrateXics",
+			"set_integr",
+			"SPECTRAL_ENUM",
+			"set_integrated",
+			"file",
+			"document",
+			"getamplitudes",
+			"def getamplitudes",
+			"getratios",
+			"def recalculate",
+			".getattr",
+			"setattr",
+			"self.checked",
+			"setattr",
+			"setattr(",
+			"setattr",
+			"getattr",
+			"hasattr",
+			"getattr",
+			"setattr",
+			"hasattr",
+			"setattr",
+			"hasattr",
+			"getattr",
+			".getattr",
+			"exception",
+			".getattr",
+			".hasattr",
+			".getattr",
+			"MULTIPLE_SELECTION",
+			".getattr",
+			"getattr",
+			".getattr",
+			"getattr",
+			".getattr",
+			"getattr",
+			"TransitionLookup",
+			"__json__",
+			"Lookup",
+			".getattr",
+			"def __getattr__",
+			"\n        ",
+			"mapping"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"from_uniprot",
+			"cut_peptide",
+			"mime",
+			"xml",
+			"raw",
+			"hdf5",
+			"sqlite",
+			"VERSION",
+			"ModificationError",
+			"recursive_dict",
+			"logger.raise_error",
+			"except_error",
+			"licenses/GNU GPLv3.txt",
+			"logger.call",
+			"@logger.xcall('peakpicking', 'debug')",
+			"@logger.xcall('xlpy', 'debug')",
+			"@logger.xcall('linking', 'debug')",
+			"@logger.xcall('threading', 'debug')",
+			"@logger.xcall('quantitative', 'debug')",
+			"@logger.xcall('linking', 'debug')",
+			"@logger.xcall('quantitative', 'debug')",
+			"@logger.xcall('matched', 'debug')",
+			"@logger.xcall('xlpy', 'debug')",
+			"@logger.xcall('bio', 'debug')",
+			"@logger.xcall('threading', 'debug')",
+			"@logger.xcall('database', 'debug')",
+			"@logger.xcall('object', 'debug')",
+			"@logger.xcall('document', 'debug')",
+			"@logger.xcall('gui', 'debug')",
+			"@logger.xcall('document', 'debug')",
+			"@logger.xcall('canvas', 'debug')",
+			"@logger.xcall('gui', 'debug')",
+			"logger.init",
+			"xinit('spreadsheet',",
+			"add_streaming",
+			"add_remote",
+			"silence_warning",
+			"RAW",
+			"JSON",
+			"SQLITE",
+			"PNG",
+			"SPREADSHEET",
+			"FINGERPRINT",
+			"TRANSITIONS",
+			"SESSION",
+			"add_spacer",
+			"WorkerThread",
+			"add_layout",
+			"set_window_nobuttons",
+			"set_window_noframe",
+			"DYNAMIC",
+			"other.DIRS['data']",
+			"track_window",
+			"set_stylesheet_qt",
+			"set_title_qt",
+			"set_icon_qt",
+			"set_rect_qt",
+			"discovererthread",
+			"RunDiscoverer",
+			"size_changed",
+			"DiscovererWidget",
+			"DiscovererMenu",
+			"\\n",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"\\t\\n",
+			"\\n",
+			"",
+			"\\t\\n",
+			"\\n\\t",
+			"\\n",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"",
+			"\\t\\n",
+			"\\n",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			", ",
+			"\\n",
+			", ",
+			"\\n",
+			"labeling_menu",
+			"new_profile",
+			"add_from_server",
+			"ClickButton",
+			"reset_view",
+			"DocumentChild",
+			"', '",
+			"\\{2+}\\t\\$\\1+}",
+			"\\{2}\\t\\$\\1}",
+			"${2}\\t\\${1}",
+			"$w2\\t\\$w1",
+			"$2\\t\\$1",
+			"\\_1\\t\\_0",
+			"\\1\\t\\0",
+			"get_lookup",
+			"_spinning",
+			"sql.ProteinModel",
+			"BaseTable",
+			"get_integral",
+			"zoomout",
+			"set_peak_index",
+			"get_relative_peak_index",
+			"get_peak_indexes",
+			"set_meta",
+			"",
+			"<",
+			">",
+			"<",
+			">",
+			"sp|Q9UBW8|CSN7",
+			"sp|Q99627|CSN8",
+			"sp|Q7L5N1|CSN6",
+			"sp|Q92905|CSN5",
+			"interesting_ambiguous",
+			",",
+			"interesting_ambiguous",
+			"modifications=[]",
+			"",
+			"\\n",
+			"mode"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test/unittests/onstart/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								426,
+								426
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "python",
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test/unittests/onstart/error.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 824,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								824,
+								824
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "python",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test/unittests/onstart/app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								740,
+								740
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "python",
+							"auto_complete": false,
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 283.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "xldlib/onstart/app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1499,
+								1499
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "python",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 142.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.460630167487,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 206.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 120.0
+	},
+	"output.git-commit":
+	{
+		"height": 110.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 138.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "xltools.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

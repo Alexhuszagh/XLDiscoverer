@@ -1,0 +1,8 @@
+Search Name:	THERMO_DEMO_2015_11_QP_T6_vivo_Target_MS3/T6QP vivo Target
+			THERMO_DEMO_2015_11_QP_T6_vivo_Target_MS3/T6QP vivo Target
+	Uniq Pep	Acc #	Num Unique	% Cov	Best Disc Score	Best Expect Val	m/z	z	ppm	DB Peptide	Mods	Protein Mods	Fraction	RT	MSMS Info	Start	Score	Expect	# in DB	Protein MW	Species	Protein Name
+[1]		P62195	96	67.5	7.96	3.5e-12	424.7089	2	-1.3	KMNLTR	XL:A-Thiol(Unsaturated)@1	XL:A-Thiol(Unsaturated)@335	QPvivo_2015_11_10_1targetmethod_MS3	144.8837004	33453	335	10.7	0.30	1	45626.4	HUMAN	26S protease regulatory subunit 8
+[1]		P62195	107	68.7	6.56	1.20E-10	885.95	2	-0.39	VSGSELVQKFIGEGAR	Label:13C(6)15N(2)+XL:A-Thiol@9	Label:13C(6)15N(2)+XL:A-Thiol@222	QPvivo_2015_11_10_1targetmethod_MS3	144.903641	33460	214	31.4	6.30E-04	1	45626.4	HUMAN	26S protease regulatory subunit 8
+[1]		P62195	107	68.7	6.56	1.20E-10	869.9635	2	-0.95	VSGSELVQKFIGEGAR	Label:13C(6)15N(2)+XL:A-Alkene@9	Label:13C(6)15N(2)+XL:A-Alkene@222	QPvivo_2015_11_10_1targetmethod_MS3	144.9101809	33462	214	22.4	0.034	1	45626.4	HUMAN	26S protease regulatory subunit 8
+[2]		P43686	27	34.2	5.36	3.50E-08	604.8145	2	-0.5	KIEFPLPDR	Label:13C(6)15N(2)+XL:A-Thiol@1	Label:13C(6)15N(2)+XL:A-Thiol@330	QPvivo_2015_11_10_1targetmethod_MS3	144.9069109	33461	330	21.8	0.0013	1	47366.7	HUMAN	26S protease regulatory subunit 6B
+[2]		P43686	27	34.2	5.36	3.50E-08	588.8281	2	-1.2	KIEFPLPDR	Label:13C(6)15N(2)+XL:A-Alkene@1	Label:13C(6)15N(2)+XL:A-Alkene@330	QPvivo_2015_11_10_1targetmethod_MS3	144.9008329	33459	330	27.4	0.0016	1	47366.7	HUMAN	26S protease regulatory subunit 6B

@@ -1,0 +1,68 @@
+XL Discoverer builds upon various projects and therefore depends upon multiple licenses. The code itself is distributed under a GNU General Public License v3, a copyleft license (GNU GPLv3.txt), however, individual subpackages and various components are distributed under their own licenses. A few of the relevant licenses have been appended below.
+
+The project was inspired by mMass, and and includes some code from the mMass project, which is under a GNU General Public License, a copyleft license (GNU GPLv3.txt)
+
+Post-translational modifications were integrated into XL Discoverer from UniMod, which provides the modifications under a Design Science Left license, a copyleft license (DSL.txt).
+
+A widget recipe, a Qt spinner, was modified from z3ntu, which is provided under an MIT license (MIT.txt).
+
+A widget recipe, a QDoubleSpinBox support scientific notation, was modified from jdreaver, with explicit, written permission via email provided that any derivations mention him as original author, a link to his website (jdreaver.com), a link to the original source code in question, and are published under a permissive and/or copyleft license, and is provided here under an MIT license (MIT.txt).
+
+A signal-slot recipe, implementing a Qt-like signal-slot mechanism for non-PySide objects, was modified from Thiago Marcos P. Santos, which is provided under an MIT license (MIT.txt).
+
+Various signal processing functions and routines have been adapted and modified from scikit projects, including skimage (skimage.txt), with notices in the above files.
+
+PyQtGraph, a library to generate embedded graphs in PyQt or PySide applications has been cloned, and is under an MIT license (MIT.txt), and is found in pyqtgraph.
+
+namedlist, a library to provide mutable records similar to namedtuple has been cloned, and is under an Apache 2.0 license (Apache-2.0.txt), and is found in namedlist.py.
+
+six, a library to provide compatibility between Python2 and Python3, has been cloned, and is under an MIT license (MIT.txt), and is found in six.py.
+
+XlsxWriter, an OpenOffice writer for writing spreadsheets, has been cloned and is under a BSD license clause 2 license (BSDv2.txt), and is found in xlsxwriter.
+
+TestFixtures, a library for creating mock objects to write unit tests, has been cloned and is under an MIT license (MIT.txt) and is found in testfixtures.
+
+Various other open source and redistributable intellectual property has also been included in its original or adapted form, including but not limited to the images found in resources/png, which are attributed as follows:
+    Author
+        License
+        - Images
+
+    W3 Creative Lab
+        Creative Commons License 3.0 (CCPL-3.0.txt)
+        - input_files_menu.png
+
+    Webalys (http://www.webalys.com/)
+        Free Use
+        - settings_menu.png
+
+    Linh Pham Thi Dieu (http://linhpham.me/)
+        Free Use
+        - save_session_icon.png
+        - home.png
+
+    Cole Bemis
+        Creative Commons License 3.0 (CCPL-3.0.txt)
+        - next.png
+        - previous.png
+        - move.png
+
+    Google
+        Creative Commons License 3.0 (CCPL-3.0.txt) (http://google.com/)
+        - (keyboard-left.png)
+        - (keyboard-right.png)
+        - (keyboard-up.png)
+        - (keyboard-down.png)
+        - (keyboard-delete.png)
+
+    Victor Erixon (http://victorerixon.com/)
+        Free Use
+        - zoomin.png
+        - zoomout.png
+
+    IconDesigner
+        Creative Commons License 3.0 (CCPL-3.0.txt)
+        - save_openoficce_icon.png
+
+    VisualPharm (https://icons8.com/)
+        Free Use
+        - folder_icon.png

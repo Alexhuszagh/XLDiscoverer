@@ -1,0 +1,5 @@
+Search Name:	beta_orbi033115_02/AH_In_Vivo_bRPLC3_SEC_F-1_CSS3Up
+		beta_orbi033115_02/AH_In_Vivo_bRPLC3_SEC_F-1_CSS3Up
+	Acc #	Num Unique	Peptide Count	% Cov	Best Disc Score	Best Expect Val	M+H	m/z	z	ppm	DB Peptide	Mods	Protein Mods	Fraction	RT	MSMS Info	Start	Score	Expect	# in DB	Protein MW	Species	Protein Name
+[8]	Q9Y3C8	2	2	11.4	1.15	0.0012	1364.6907	682.8490	2	2.1	LKEEYQSLIR	XL:A-Thiol(Unsaturated)@2	XL:A-Thiol(Unsaturated)@33	beta_orbi033115_02	20.774	2198	32	25.5	0.0012	1	19458.6	HUMAN	Ubiquitin-fold modifier-conjugating enzyme 1
+[8]	Q9Y3C8	2	2	11.4	1.15	0.0012	1087.5427	544.2750	2	4.5	LESNKEGTR	XL:A-Alkene@5	XL:A-Alkene@60	beta_orbi033115_02	20.769	2197	56	28.0	0.0023	1	19458.6	HUMAN	Ubiquitin-fold modifier-conjugating enzyme 1

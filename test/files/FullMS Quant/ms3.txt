@@ -1,0 +1,5 @@
+Search Name:	XW_QTAXPINT_110515_Rpt6_invitro_01_MS3/T6QP vitro 01
+			XW_QTAXPINT_110515_Rpt6_invitro_01_MS3/T6QP vitro 01
+	Uniq Pep	Acc #	Num Unique	% Cov	Best Disc Score	Best Expect Val	m/z	z	ppm	DB Peptide	Mods	Protein Mods	Fraction	RT	MSMS Info	Start	Score	Expect	# in DB	Protein MW	Species	Protein Name
+[3]		O43242	15	22.1	4.57	6.50E-08	763.823	2	-2.6	SYNKDLESAEER	XL:A-Thiol(Unsaturated)@4	XL:A-Thiol(Unsaturated)@503	beta_orbi110515_09	27.628	2079	500	32.1	4.30E-05	1	60978.1	HUMAN	26S proteasome non-ATPase regulatory subunit 3
+[13]		P51665	10	35.8	3.6	1.40E-06	386.695	2	-1.1	KEGQEK	XL:A-Alkene@1	XL:A-Alkene@288	beta_orbi110515_09	27.623	2078	288	20.6	0.036	1	37025.7	HUMAN	26S proteasome non-ATPase regulatory subunit 7

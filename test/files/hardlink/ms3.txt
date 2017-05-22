@@ -1,0 +1,12 @@
+Search Name:	THERMO_DEMO_2015_11_QP_T6_vivo_Target_MS3/T6QP vivo Target
+			THERMO_DEMO_2015_11_QP_T6_vivo_Target_MS3/T6QP vivo Target
+	Uniq Pep	Acc #	Num Unique	% Cov	Best Disc Score	Best Expect Val	m/z	z	ppm	DB Peptide	Mods	Protein Mods	Fraction	RT	MSMS Info	Start	Score	Expect	# in DB	Protein MW	Species	Protein Name
+[1]		P62195	96	67.5	7.96	3.5e-12	865.9564	2	-1.0	VSGSELVQKFIGEGAR	XL:A-Alkene@9	XL:A-Alkene@222	QPvivo_2015_11_10_1targetmethod_MS3	127.2363612	28427	214	39.6	4.9e-5	1	45626.4	HUMAN	26S protease regulatory subunit 8
+[1]		P62195	96	67.5	7.96	3.5e-12	574.8428	2	-0.30	LDILKIHSR	XL:A-Alkene@5	XL:A-Alkene@330	QPvivo_2015_11_10_1targetmethod_MS3	127.2265201	28424	326	34.8	6.4e-4	1	45626.4	HUMAN	26S protease regulatory subunit 8
+[1]		P62195	96	67.5	7.96	3.5e-12	590.8290	2	0.097	LDILKIHSR	XL:A-Thiol(Unsaturated)@5	XL:A-Thiol(Unsaturated)@330	QPvivo_2015_11_10_1targetmethod_MS3	127.2297886	28425	326	33.6	0.0013	1	45626.4	HUMAN	26S protease regulatory subunit 8
+[1]		P62195	96	67.5	7.96	3.5e-12	881.9440	2	0.80	VSGSELVQKFIGEGAR	XL:A-Thiol(Unsaturated)@9	XL:A-Thiol(Unsaturated)@222	QPvivo_2015_11_10_1targetmethod_MS3	127.2330925	28426	214	27.9	0.0015	1	45626.4	HUMAN	26S protease regulatory subunit 8
+[49]		Q6ZS81	1	0.3	0.32	0.067	578.8500	2	15	LDLLKSLLR	XL:A-Thiol(Unsaturated)@5	XL:A-Thiol(Unsaturated)@626	QPvivo_2015_11_10_1targetmethod_MS3	127.2204409	28422	622	25.2	0.27	1	353613.3	HUMAN	WD repeat- and FYVE domain-containing protein 4
+[1]		P62195	107	68.7	6.56	1.20E-10	594.8361	2	-0.039	LDILKIHSR	Label:13C(6)15N(2)+XL:A-Thiol@5	Label:13C(6)15N(2)+XL:A-Thiol@330	QPvivo_2015_11_10_1targetmethod_MS3	127.2232515	28423	326	36.5	0.002	1	45626.4	HUMAN	26S protease regulatory subunit 8
+[1]		P62195	107	68.7	6.56	1.20E-10	578.85	2	-0.12	LDILKIHSR	Label:13C(6)15N(2)+XL:A-Alkene@5	Label:13C(6)15N(2)+XL:A-Alkene@330	QPvivo_2015_11_10_1targetmethod_MS3	127.2204409	28422	326	40.7	0.0035	1	45626.4	HUMAN	26S protease regulatory subunit 8
+[35]		P32121	1	2.4	0.88	0.0052	574.8428	2	9.5	EVLGILVSYR			QPvivo_2015_11_10_1targetmethod_MS3	127.2265201	28424	314	26.5	0.074	1	46106.2	HUMAN	Beta-arrestin-2
+[38]		P33991	2	1	0.45	0.076	590.829	2	1.9	VELLKELSR	Label:13C(6)15N(2)+XL:A-Thiol@5	Label:13C(6)15N(2)+XL:A-Thiol@450	QPvivo_2015_11_10_1targetmethod_MS3	127.2297886	28425	446	20.1	0.94	1	96558.8	HUMAN	DNA replication licensing factor MCM4

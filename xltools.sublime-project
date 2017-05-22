@@ -1,0 +1,50 @@
+{
+    "folders":
+    [
+        {
+            "path": "licenses"
+        },
+        {
+            "path": "resources",
+            "folder_exclude_patterns": [
+                "backing_store",
+                "data",
+                "databases",
+                "preferences"
+            ]
+        },
+        {
+            "path": "test",
+            "folder_exclude_patterns": [
+                "libs",
+                "objects",
+            ]
+        },
+        {
+            "path": "xldlib"
+        },
+    ],
+    "build_systems":
+    [
+        {
+            "name": "Build Python3 XL Discoverer",
+            "working_dir": "$project_path",
+            "cmd": ["python3", "xldiscoverer.pyw"]
+        },
+        {
+            "name": "Build Python2 XL Discoverer",
+            "working_dir": "$project_path",
+            "cmd": ["python2", "xldiscoverer.pyw"]
+        },
+        {
+            "name": "Python3 Debug Session",
+            "working_dir": "$project_path",
+            "cmd": ["python3", "test/runtests.py"]
+        },
+        {
+            "name": "Python2 Debug Session",
+            "working_dir": "$project_path",
+            "cmd": ["python2", "test/runtests.py"]
+        }
+    ]
+}
